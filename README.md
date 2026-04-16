@@ -11,7 +11,7 @@
 Perform data cleaning and exploratory data analysis on train.csv to explore relationships between variables and identify patterns in passenger survival data.
 
 ## Files
-- `gtrain.ipynb` - Jupyter notebook with complete EDA and visualizations
+- `train.ipynb` - Jupyter notebook with complete EDA and visualizations
 - `train.py` - Python script version of the analysis
 - `train.csv` - Training dataset with 891 passenger records
 
@@ -47,8 +47,3 @@ Perform data cleaning and exploratory data analysis on train.csv to explore rela
 ## Tech Stack
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
 
-## How to Run
-1. Clone repository
-2. Install dependencies: `pip install pandas matplotlib seaborn jupyter`
-3. **
-4. 
